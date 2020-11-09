@@ -1,2 +1,3 @@
 # ListaExerciciosPythonBrasil
-Lista de exercícios resolvidos do site Python Brasil: https://wiki.python.org.br/ListaDeExercicios
+Lista de exercícios resolvidos do site Python Brasil: 
+ttps://wiki.python.org.br/ListaDeExercicios
